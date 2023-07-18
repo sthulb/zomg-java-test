@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/FAQs/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/changelog/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/core/logging/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/core/metrics/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/core/tracing/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/batch/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/custom_resources/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/idempotency/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/parameters/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/serialization/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/sqs_large_message_handling/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.powertools.aws.dev/lambda-java/1.16.0/utilities/validation/</loc>
-         <lastmod>2023-07-14</lastmod>
+         <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
