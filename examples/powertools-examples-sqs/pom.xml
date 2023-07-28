@@ -138,7 +138,7 @@
                 <jdk>(,11)</jdk> <!-- 8 -->
             </activation>
             <properties>
-                <aspectj.version>1.9.7</aspectj.version>
+                <aspectj.version>1.9.19</aspectj.version>
             </properties>
             <dependencyManagement>
                 <dependencies>
