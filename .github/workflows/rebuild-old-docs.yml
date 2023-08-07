@@ -3,14 +3,14 @@ name: Rebuild old docs
 on:
   workflow_dispatch:
     inputs:
-      docs_version:
+      version:
         default: "1.3.0"
         required: true
       alias:
         description: "Alias to associate version (latest, stage)"
         required: true
         default: "latest"
-        type: string  
+        type: string
 
 permissions:
   contents: write
