@@ -6,6 +6,9 @@ on:
       version:
         default: "1.3.0"
         required: true
+      hash:
+        default: "8ee1896a4d31d8789a490e4befeade1ee02ee1fc"
+        required: true
       alias:
         description: "Alias to associate version (latest, stage)"
         required: true
@@ -46,8 +49,7 @@ jobs:
       - name: Build docs website and API reference
         run: |
           rm -rf site
-          mkdocs build
-          mike set-default ${{ env.VERSION }}
+          python release-old-docs.py env.VERSION env.HASH
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@e1e17a757e536f70e52b5a12b2e8d1d1c60e04ef # v2.0.0
         with:
